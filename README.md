@@ -1,6 +1,7 @@
+<div style="background-color: black">
 <h1 align="center">Hi 👋, I'm Paula</h1>
 <h3 align="center">A Junior Full Stack Developer!</h3>
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulagimeno&label=Profile%20views&color=0e75b6&style=flat" alt="paulagimeno" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulagimeno" alt="paulagimeno" /></a> </p>
