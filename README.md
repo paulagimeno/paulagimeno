@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulagimeno&show_icons=true&theme=synthwave&title_color=ce79fb&text_color=ffffff&locale=en" alt="paulagimeno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulagimeno&" alt="paulagimeno" /></p>
+
